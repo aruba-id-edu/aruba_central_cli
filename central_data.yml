@@ -8,6 +8,16 @@ dipta:
   token:
     access_token: "zweeDkTKEI2Bb4DhHM8qVXarWySt1JLD"
 
+telkom:
+  #username: "bagus.pradipta@hpe.com"
+  #password: "test" 
+  #client_id: "uS1KXCYFYSBZy9UoQq0xUYFPFBNZ13uo"
+  #client_secret: "uS1KXCYFYSBZy9UoQq0xUYFPFBNZ13uo"
+  #customer_id: "245edcdaefd711ed9db7aae4b5bd6b91"
+  base_url: "https://api-ap.central.arubanetworks.com"
+  token:
+    access_token: "rrkLLUl7aQEu5fyQ7N7mmxn9Lz0EpKa4"
+
 token_store:
   type: "local"
   path: "temp"
