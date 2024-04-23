@@ -24,7 +24,7 @@ def caas_push_configuration(group_name,config_file,token,central_info,account_na
         }
     apiHeaders = {
             "Content-Type": "application/json",
-            "Authorization": f"Bearer {token["access_token"]}",  # type: ignore
+            "Authorization": f"Bearer {token['access_token']}",  # type: ignore
         }
     apiData=gw_data
 

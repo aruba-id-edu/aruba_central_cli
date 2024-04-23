@@ -25,7 +25,7 @@ from pycentral.device_inventory import Inventory
 
 #central_acct = input("Enter your Central Account name: ")
 central_data1= "central_data.yml"
-account_name = "vorawut_sg"
+account_name = "dipta"
 central = get_conn_from_file(central_data1,account=account_name, logger=None)
 #central = get_conn_from_file(central_data1,account="central_acct, logger=None)
 """
