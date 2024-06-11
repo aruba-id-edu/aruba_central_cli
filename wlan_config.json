@@ -1,6 +1,6 @@
 {
     "wlan": {
-      "essid": "Telkom-WiFi3",
+      "essid": "test",
       "type": "employee",
       "hide_ssid": false,
       "vlan": "1",

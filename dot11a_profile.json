@@ -1,9 +1,9 @@
 {
-  "allowed_channels": "36,40,44,48,52,56,60,64,149,153,157,161",
+  "allowed_channels": "36,40,44,48,52,56,60,64,100,104,108,112,116,120,124,128,132,136,140,149,153,157,161,165",
   "beacon_interval": 100,
   "ch_bw_range": [
     "20MHz",
-    "40MHz"
+    "80MHz"
   ],
   "channel_quality_aware": false,
   "channel_quality_threshold": 70,
